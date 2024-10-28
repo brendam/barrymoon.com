@@ -1,0 +1,35 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+  #     desired widget in your `content/home/` folder.
+  #   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Home
+    url: /
+    weight: 10
+  - name: Videos
+    url: videos/
+    weight: 20
+  - name: Music
+    url: music/
+    weight: 30
+  - name: Installations
+    url: installations/
+    weight: 40
+  - name: Games
+    url: games/
+    weight: 50
+  - name: Pincushioned
+    url: pincushioned/
+    weight: 60
+  - name: Baz Tutorials
+    url: baz-tutorials/
+    weight: 70
+  - name: Other
+    url: other/
+    weight: 80
+  - name: Bio/CV
+    url: biocv/
+    weight: 90
+
+
